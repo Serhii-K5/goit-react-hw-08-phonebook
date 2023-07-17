@@ -4,17 +4,17 @@ import css from './notFound.module.css';
 
 
 function NotFound() {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
-    useEffect(() => {
-        setTimeout(() => {
-            navigate('/', { replace: true });
-        }, 3000);
-    }, []);
+  useEffect(() => {
+    setTimeout(() => {
+      navigate('/', { replace: true });
+    }, 3000);
+  });
 
-    return <>
-        <div className={css.NotFoundContainer}>Page not found</div>
-    </>
+  return <>
+    <div className={css.NotFoundContainer}>Page not found</div>
+  </>
 }
 
 export default NotFound;
