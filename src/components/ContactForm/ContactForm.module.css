@@ -1,13 +1,9 @@
 .container {
-  /* width: 55vw; */
-  /* height: 80vh; */
   background-color :beige;
   box-shadow: 0 1px 5px #000575;
 }
 
 .form {
-  /* width: 30vw;
-  margin: 10vh auto 3vh auto; */
   margin-top: 8vh;
   margin-bottom: 3vh;
 }
@@ -22,7 +18,6 @@
 .formNumber {
   margin: 10px auto;
   padding: 10px;
-  /* width: 30vw;  */
   width: 100%;  
   font-size: large;
 }
@@ -43,7 +38,6 @@
   
   font-size: 1rem;
   font-weight:bold;
-  /* color: black; */
   color: white;
   background-color: #000575;
   
@@ -56,6 +50,5 @@
 .formBtn:hover,
 .formBtn:active {
   background-color: blue;
-  /* color: white; */
   cursor: pointer;
 }

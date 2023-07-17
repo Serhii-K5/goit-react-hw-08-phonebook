@@ -4,7 +4,6 @@
   font-size: 15px;
   margin: 10px 0 10px 20px;
   padding: 5px 10px;
-  /* color: black; */  
   color: white;
   background-color: #000575;
   transition: color 350ms, background-color 350ms;
@@ -18,9 +17,6 @@
 }
 
 li {
-  /* display: flex; */
-  /* align-items: center;
-  justify-content: space-between; */
   width: 100%;
   display: list-item;
   list-style-type: "🤯";
@@ -32,10 +28,3 @@ li {
   align-items: center;
   justify-content: space-between;
 }
-
-/* ul {
-  display: flex;
-} */
-/* li::marker {
-
-} */

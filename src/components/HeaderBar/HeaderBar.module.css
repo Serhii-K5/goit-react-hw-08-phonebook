@@ -2,21 +2,14 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* margin-bottom: -7vh; */
-  /* border-bottom: 1px solid #2a363b; */
-  /* border-bottom: 1px solid #000575; */
-
+  
   box-shadow: 0 5px 5px #000575;
   background-color: transparent;
   font-size: 1.1rem;
-  /* font-size: 24px; */
-  /* width: 100%; */
   width: 55vw;
   width: content;
   position: absolute;
-  /* padding: 0 16px; */
   max-width: 700px;
-  /* margin-bottom: 100px; */
   height: 5vh;  
   z-index: 1;
 }
