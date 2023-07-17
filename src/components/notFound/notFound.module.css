@@ -1,0 +1,22 @@
+.container {
+  margin: 0;
+}
+
+.NotFoundContainer {  
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding-top: 10vh;
+  height: 75vh;
+  background-color: beige;
+  box-shadow: 0 1px 5px #000575;
+  margin-top: -3px;
+  font-size: larger;
+  font-weight: bold;
+  width: 55vw;
+  
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius: 1vw;
+}

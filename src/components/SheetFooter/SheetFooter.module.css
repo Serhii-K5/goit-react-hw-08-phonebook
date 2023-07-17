@@ -1,0 +1,15 @@
+
+  .imgPhonebook {
+  /* margin-top: -45px; */
+  /* width: 100%; */
+  /* margin-bottom: 100px; */
+  /* background-image: url('images/notepad-spring4.jpg'); */
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  
+  border-bottom-left-radius: 1vw;
+  border-bottom-right-radius: 1vw;
+}
